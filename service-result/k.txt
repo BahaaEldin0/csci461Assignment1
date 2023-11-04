@@ -1,0 +1,4 @@
+Cluster	Number of Records
+0	83
+2	71
+1	28

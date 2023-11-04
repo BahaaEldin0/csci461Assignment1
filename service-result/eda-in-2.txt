@@ -1,0 +1,5 @@
+
+        The 'date' and 'time_of_sale' columns are stored as objects (strings) and need to be converted to datetime data types for further analysis. 
+        This conversion is essential for time-related analysis, such as extracting the year and month of transactions.
+        So the pandas to_datetime function is used to convert and later divide date to month and year.
+    

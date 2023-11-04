@@ -1,0 +1,4 @@
+
+    Data reduction has been applied by dropping the 'received_by' column and sampling 50% of the data randomly. 
+    These steps help reduce the dimensionality of the dataset and make it more manageable for analysis without significantly compromising the representation of the original data.
+    
